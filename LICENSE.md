@@ -22,9 +22,9 @@ THE SOFTWARE.
 
 -------------------------------------------------------------------
 
-![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)
-http://creativecommons.org/licenses/by/4.0/
-
+![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)<br/>
 この作品は [クリエイティブ・コモンズ 表示 4.0 国際 ライセンス](http://creativecommons.org/licenses/by/4.0/) の下に提供されています。
+
+http://creativecommons.org/licenses/by/4.0/
 
 -------------------------------------------------------------------
