@@ -1,2 +1,3 @@
-# OSM-MIT
+# playpreset.xlsx
+
 エクセルでのプリセットの作り方
